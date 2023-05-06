@@ -1,0 +1,13 @@
+.FriendsDiv {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+}
+
+.friendtop {
+    text-align: center;
+}
+
+.padding {
+    padding: 20px;
+}

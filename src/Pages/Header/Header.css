@@ -1,0 +1,22 @@
+nav a {
+    margin: 20px;
+    text-decoration: none;
+
+}
+
+nav a:hover {
+    color: brown;
+
+}
+
+.active {
+    background-color: yellowgreen;
+    color: white;
+    padding: 15px 30px;
+}
+
+nav {
+    text-align: right;
+    margin-right: 50px;
+    margin-top: 15px;
+}
